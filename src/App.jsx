@@ -10,6 +10,7 @@ import Bookings from "./pages/Bookings";
 import PageNotFound from "./pages/PageNotFound";
 import AppLayout from "./ui/AppLayout";
 
+
 export default function App() {
   return (
     <>
