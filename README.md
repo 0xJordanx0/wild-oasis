@@ -12,3 +12,5 @@ This is a follow along project from the "Ultimate React Course" by Jonas on udem
 
 **Backend:** Supabase
 
+## Database ERD
+![database erd](http://url/to/img.png](https://imgur.com/xAc1WWt.png)https://imgur.com/xAc1WWt.png) 
