@@ -11,11 +11,11 @@ This is a follow along project from the "Ultimate React Course" by Jonas on udem
 **Client:**\
 ![reat](https://skillicons.dev/icons?i=react)
 ![vite](https://skillicons.dev/icons?i=vite) 
-![styledcomponents](https://skillicons.dev/icons?i=styledcomponents)
+![styledcomponents](https://skillicons.dev/icons?i=styledcomponents)\
 React Query
 React Router
 
-**Backend:** 
+**Backend:**\
 ![supabase](https://skillicons.dev/icons?i=supabase)
 
 ## Database ERD
