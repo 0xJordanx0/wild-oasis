@@ -6,7 +6,7 @@ This is a follow along project from the "Ultimate React Course" by Jonas on udem
 
 
 
-## Tech Stack\
+## Tech Stack
 
 ![reat](https://skillicons.dev/icons?i=react)
 ![vite](https://skillicons.dev/icons?i=vite) 
