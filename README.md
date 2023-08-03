@@ -6,17 +6,15 @@ This is a follow along project from the "Ultimate React Course" by Jonas on udem
 
 
 
-## Tech Stack
+## Tech Stack\
 
-**Client:**\
 ![reat](https://skillicons.dev/icons?i=react)
 ![vite](https://skillicons.dev/icons?i=vite) 
 ![styledcomponents](https://skillicons.dev/icons?i=styledcomponents)\
-React Query
-React Router
+![supabase](https://skillicons.dev/icons?i=supabase)\
 
-**Backend:**\
-![supabase](https://skillicons.dev/icons?i=supabase)
+React Query And
+React Router
 
 ## Database ERD
 ![database erd](https://i.imgur.com/xAc1WWt.png) 
