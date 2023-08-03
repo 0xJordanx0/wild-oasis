@@ -13,7 +13,7 @@ This is a follow along project from the "Ultimate React Course" by Jonas on udem
 ![styledcomponents](https://skillicons.dev/icons?i=styledcomponents)
 ![supabase](https://skillicons.dev/icons?i=supabase)
 
-React Query And
+![ReactQuery](https://imgur.com/a/RdeEHiP.png)
 React Router
 
 ## Database ERD
