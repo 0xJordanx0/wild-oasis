@@ -1,8 +1,14 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# The Wild Oasis
 
-Currently, two official plugins are available:
+This is a follow along project from the "Ultimate React Course" by Jonas on udemy, here is where I will be sharing my progress on the project from theh start to finish.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Tech Stack
+
+**Client:** React, Styled Components, React Query, React Router
+
+**Backend:** Supabase
+
