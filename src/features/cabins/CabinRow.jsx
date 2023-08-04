@@ -42,7 +42,8 @@ const Discount = styled.div`
   color: var(--color-green-700);
 `;
 
-function CabinRow({cabin}){
+function CabinRow({cabin}){ 
+  
   const {id: cabinId ,name, maxCapacity, regularPrice, discount, image} = cabin;
   const queryClient = useQueryClient();
   const {isLoading: isDeleting, mutate} = useMutation({
@@ -62,7 +63,10 @@ function CabinRow({cabin}){
     <div>Fits up to {maxCapacity} guests</div>
     <Price>{formatCurrency(regularPrice)}</Price>
     <Price>{formatCurrency(discount)}</Price>
+    <div>
+    <button>Edit</button>
     <button onClick={()=> mutate(cabinId)} disabled={isDeleting}>Delete</button>
+    </div>
   </TableRow>
 }
 
